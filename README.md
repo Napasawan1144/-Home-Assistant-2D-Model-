@@ -1,1 +1,0 @@
-# -Home-Assistant-2D-Model-
